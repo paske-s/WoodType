@@ -6,3 +6,4 @@ west wood
 wood fonts
 italic wood 
 bold wood
+regular light
